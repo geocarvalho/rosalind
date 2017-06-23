@@ -1,2 +1,3 @@
-# rosalind
-Scripts with rosalind answers
+# Rosalind scripts
+---
+Scripts in python for the exercises proposed from (Rosalind)[http://rosalind.info] website
