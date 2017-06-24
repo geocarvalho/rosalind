@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 '''
 The reverse complement of a DNA string S is RC formed by reversing the symbols

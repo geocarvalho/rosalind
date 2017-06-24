@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 '''
 Giving a DNA string D corresponding to a coding strand, its transcribed RNA

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 '''
 Having a string S of a DNA sequence return four integers counting the
 respective number of times that ["A", "T", "G", "C"] occur in S.
