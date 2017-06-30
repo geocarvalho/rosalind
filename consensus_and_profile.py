@@ -3,7 +3,9 @@
 ''' Given: A collection of at most 10 DNA strings of equal length in FASTA
 format.
 Return: A consensus string and profile matrix for the collection. (If several
-possible consensus strings exist, then you may return any one of them.) '''
+possible consensus strings exist, then you may return any one of them.)
+
+usage: python consensus_and_profile.py rosalind_cons.txt'''
 
 __author__ = 'George Carvalho'
 
